@@ -1,0 +1,575 @@
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.GuardarCliente.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.buscardatoscliente.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.buscarmodificar.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.buscareliminarcliente.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.IngresoProductos.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.verproductos.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csprojAssemblyReference.cache
+C:\Users\My Notebook\source\repos\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.modificarproducto.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ACliente.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BCliente.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MCliente.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ECliente.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ARopa.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BRopa.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ERopa.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MRopa.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.VCDeudor.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.SRopa.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\EnvDTE.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\stdole.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csprojAssemblyReference.cache
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino.resources
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.cache
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.compiled
+C:\Users\My Notebook\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino1.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\stdole.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ACliente.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ARopa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BCliente.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BRopa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ECliente.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ERopa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino1.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MCliente.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MRopa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.SRopa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.VCDeudor.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa.resources
+C:\Users\LENOVO\Desktop\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa1.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\stdole.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ACliente.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ARopa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BCliente.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BRopa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ECliente.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ERopa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form2.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino1.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MCliente.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MRopa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa1.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.SRopa.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.VCDeudor.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+C:\Users\LENOVO\Desktop\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\EnvDTE.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\stdole.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.MSXML.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.AssemblyReference.cache
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ACliente.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ARopa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BCliente.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BRopa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ECliente.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ERopa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form2.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino1.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MCliente.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MRopa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa1.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.SRopa.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.VCDeudor.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+D:\espoch\tercer semestre\proyecto integrador\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csprojAssemblyReference.cache
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.exe
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pdb
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ACliente.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ARopa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BCliente.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.BRopa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ECliente.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.eliminarproducto.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.ERopa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Form1.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MasculinoFemenino1.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MCliente.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.MRopa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.pantallainicio.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.Properties.Resources.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.reportropa1.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.SRopa.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.VCDeudor.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.venta.resources
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.GenerateResource.cache
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.cache
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\RdlCompile.compiled
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CoreCompileInputs.cache
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe.config
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.exe
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\MR_Fashion.pdb
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\FontAwesome.Sharp.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\EnvDTE.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\stdole.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\Microsoft.MSXML.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESPOCH\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\MR_Fashion\MR_Fashion\obj\Debug\MR_Fashion.csproj.CopyComplete
